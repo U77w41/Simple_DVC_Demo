@@ -57,3 +57,8 @@ git add .
 git commit -m "Update README.md"
 git push -u origin main
 ```
+
+
+#### Modify the params.yaml file
+
+#### Inside the dvc.yaml file we will specify the stages
